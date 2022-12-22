@@ -1,5 +1,5 @@
 <div id="badges">
-  <a href="www.linkedin.com/in/dylan-swarts-1011xa">
+  <a href="https://www.linkedin.com/in/dylan-swarts-1011xa">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge" />
   </a>
   <a href="https://youtube.com/DylanSwartsblindfolded">
