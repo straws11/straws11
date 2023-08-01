@@ -15,7 +15,7 @@
 ### 👨‍💻About me:
 
 - 👋 Hi, I’m @straws11. I'm a Computer Science major from South Africa
-- 👀 I’m interested in Machine Learning and Math
-- 🌱 I’m currently learning C and working on learning more Python libraries
+- 👀 I’m interested in Machine Learning, Data Science and Math
+//- 🌱 I’m currently learning C and working on learning more Python libraries
 - 💞️ I’m looking to collaborate on any Rubik's Cube Solving/statistics/timing projects
 - 📫 Reach me here: [![Linkedin Badge](https://img.shields.io/badge/-Dylan%20Swarts-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dylan-swarts-1011xa)
