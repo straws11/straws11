@@ -4,13 +4,14 @@
   </a>
   <a href="https://youtube.com/DylanSwartsblindfolded">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  <br />
   </a>
   <!---<img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>--->
-  <a href="https://straws11.github.io>My Personal Website, hosted right here on github pages!</a>
 </div>
 
 <img src="https://komarev.com/ghpvc/?username=straws11&style=flat-square&color=blue" alt="View Counter"/>
-
+ <a href="https://straws11.github.io">My Personal Website, hosted right here on github pages!</a>
+ 
 ---
 
 ### 👨‍💻About me:
