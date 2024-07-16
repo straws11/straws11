@@ -17,7 +17,7 @@
 ### 👨‍💻About me:
 
 - 👋 Hi, I’m @straws11. I'm a Computer Science major from South Africa
-- 👀 I’m interested in Machine Learning, Data Science and Math
+- 👀 I’m interested in all things software!
  
 [//]: # (- 🌱 I’m currently learning C and working on learning more Python libraries)
 - 💞️ I’m looking to collaborate on any Rubik's Cube Solving/statistics/timing projects
