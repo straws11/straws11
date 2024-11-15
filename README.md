@@ -1,24 +1,23 @@
-<div id="badges">
-  <a href="https://www.linkedin.com/in/dylan-swarts-1011xa">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge" />
-  </a>
-  <a href="https://youtube.com/DylanSwartsblindfolded">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  <br />
-  </a>
-  <!---<img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>--->
-</div>
+### 👨‍💻 About me:
 
-<img src="https://komarev.com/ghpvc/?username=straws11&style=flat-square&color=blue" alt="View Counter"/>
- <a href="https://straws11.github.io">My Personal Website, hosted right here on github pages!</a>
- 
----
+I'm Dylan, a software engineer from South Africa
 
-### 👨‍💻About me:
+Interested in:
+- Rust
+- backend development
+- Linux
+- everything terminal-related
+- NeoVim
 
-- 👋 Hi, I’m @straws11. I'm a Computer Science major from South Africa
-- 👀 I’m interested in all things software!
- 
-[//]: # (- 🌱 I’m currently learning C and working on learning more Python libraries)
-- 💞️ I’m looking to collaborate on any Rubik's Cube Solving/statistics/timing projects
-- 📫 Reach me here: [![Linkedin Badge](https://img.shields.io/badge/-Dylan%20Swarts-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dylan-swarts-1011xa)
+## 🔗 Links
+
+[![LinkedIn]][LinkedIn Link]
+[![YouTube]][YT Link]
+[![Website]][Website Link]
+
+[LinkedIn Link]: https://www.linkedin.com/in/dylan-swarts-1011xa
+[LinkedIn]: https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge
+[YT Link]: https://youtube.com/DylanSwartsblindfolded
+[YouTube]: https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white
+[Website]: https://img.shields.io/badge/My%20Website-1f3152
+[Website Link]: https://straws11.github.io
