@@ -1,3 +1,10 @@
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=straws11&theme=material-palenight&count_private=true&show_icons=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=straws11&layout=compact&theme=material-palenight&langs_count=6&hide=Shell,Vim%20script,Lua" />
+</a>
+
 ### 👨‍💻 About me:
 
 I'm Dylan, a software engineer from South Africa
@@ -8,6 +15,7 @@ Interested in:
 - Linux
 - everything terminal-related
 - NeoVim
+- Speedcubing (especially with a blindfold on!)
 
 ## 🔗 Links
 
