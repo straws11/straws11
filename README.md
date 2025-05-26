@@ -2,7 +2,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=straws11&theme=material-palenight&count_private=true&show_icons=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=straws11&layout=compact&theme=material-palenight&langs_count=6&hide=Shell,Vim%20script,Lua" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=straws11&layout=compact&theme=material-palenight&langs_count=6&hide=Shell,Vim%20script,Lua,Pascal" />
 </a>
 
 ### 👨‍💻 About me:
